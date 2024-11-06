@@ -15,7 +15,7 @@
     "require": {
         "php": ">=5.3.3",
         "symfony/finder": "~2.0",
-        "symfony/process": "~2.0",
+        "symfony/process": "~5.4",
         "chh/optparse": "~0.1",
         "chh/fileutils": "~1.0",
         "monolog/monolog": "~1.0",
